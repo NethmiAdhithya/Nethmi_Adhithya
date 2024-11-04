@@ -26,6 +26,13 @@
         </div>
 </section>
 
+
+
+
+
+
+
+
 <section id="about">
         <h2>About Me</h2>
         <p align="right">Name: H.B.K. Nethmi Adhithya<br>Date of Birth: December 20, 2002<br>Address: 23/11 Angampitiya road, Bowala, Kandy.<br>Email: nethmiadhithya3@gmail.com<br>Phone: +94 704264132</p>
