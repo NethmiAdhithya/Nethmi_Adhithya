@@ -82,30 +82,21 @@
 <section id="achievements">
         <h2>Achievements</h2>
         <ul>
-            <li>Computer Network Technician NVQ level 03</li>
-            <li>Computer Network Technician NVQ level 04</li>
-            <li>Web Design for Beginners - UOM</li>
-            <!-- More achievements as needed -->
+            <li>Member of hackathon club - ESOFT METRO CAMPUS, KANDY (2024)</li>
+            <li>Member of student council - ESOFT METRO CAMPUS, KANDY (2024)</li>
+            <li>Member of event club - ESOFT METRO CAMPUS, KANDY (2024)</li>
+            <li>Achievement - Champion of BUGBASH HACKATHON 2024 (organized by EOFT metro campus Kurunegala)(2024)</li>
+            <li>Workshop on "LEARDERSHIP" - Organized by AIESEC - University of Peradeniya in collaboration with students’council ESOFT Metro Campus Kandy. (2024)</li>
         </ul>
 </section>
 
-<section id="skills">
+<section id="Computer Based Skills">
         <h2>My Skills</h2>
         <ul>
-            <li>Network Troubleshooting (90%)</li>
-            <li>Programming (HTML, CSS, JavaScript, PHP, C#, SQL) - 85%</li>
+            <li>Web development (90%)</li>
+            <li>Programming (Python, MySQL, HTML, CSS, JavaScript, Java, C#, PHP, Reat) - 85%</li>
+            <li>Mobile applcations - 85%</li>
             <li>UI Designing - 85%</li>
-            <!-- Add more skills as needed -->
-        </ul>
-</section>
-
-<section id="projects">
-        <h2>Projects</h2>
-        <ul>
-            <li>Network Solution for & Network Laboratory</li>
-            <li>Arogya Health Care Hospital Management System</li>
-            <li>Car Rental Program Using C#</li>
-            <!-- Add more projects as needed -->
         </ul>
 </section>
 
