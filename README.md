@@ -14,7 +14,7 @@
 
 <section id="home">
         <h1 align="center">Hi 👋, I'm <span>Nethmi Adhithya</span></h1>
-        <p>Undergraduate | Software Engineering. I'm passionate about software development and exploring new technologies in the field.</p>
+        <p>Undergraduate | HND in Computing (Software Engineering). I'm passionate about software development and exploring new technologies in the field.</p>
         <a href="#resume" class="button">View Resume</a>
         <a href="#contact" class="button">Contact Me</a>
         <div class="social-links">
